@@ -1,0 +1,5 @@
+{
+  "scripts": {"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview","test":"vitest"},
+  "dependencies": {"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","axios":"latest"},
+  "devDependencies": {"vitest":"latest","@testing-library/react":"latest","@testing-library/jest-dom":"latest","jsdom":"latest"}
+}
